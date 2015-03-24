@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>sampleproject5</name>
   <description>sampleproject5</description>
+  <packaging>war</packaging>
 
   <properties>
      <findbugs.version>2.5.2</findbugs.version>
