@@ -70,7 +70,7 @@
         <configuration>
             <url>http://192.168.1.21:8080/manager</url>
             <server>TomcatServer</server>
-            <path>/sampleproject4</path>
+            <path>/sampleproject5</path>
         </configuration>
     </plugin>
 
